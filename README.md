@@ -32,7 +32,8 @@ Westminster Kingsway College
 Year 1
 - Game project
   [![Spongebob Game Project](img/spongebobgamesrc.png)](https://www.youtube.com/@Parmisxhk)
-- Portfolio front-end web
+- Portfolio front-end web: https://doc.gold.ac.uk/~phoss001/portfolio/
+  [![Front-End Web Portfolio Project](img/portfoliofrontend.png)](https://doc.gold.ac.uk/~phoss001/portfolio/)
 - Paint app
 - Graphics?
 Year 2
