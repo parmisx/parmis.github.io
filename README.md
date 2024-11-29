@@ -35,7 +35,7 @@ Year 1
 - Portfolio front-end web: https://doc.gold.ac.uk/~phoss001/portfolio/
 [![Front-End Web Portfolio Project](img/portfoliofrontend.png)](https://doc.gold.ac.uk/~phoss001/portfolio/)
 - Paint app
-[![Drawing and Paint App Project](img/paintapp)](https://www.youtube.com/@Parmisxhk)
+[![Drawing and Paint App Project](img/paintapp.png)](https://www.youtube.com/@Parmisxhk)
 - Graphics?
 Year 2
 - Forum app
