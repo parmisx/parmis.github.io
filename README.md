@@ -32,7 +32,7 @@ I am currently pursuing a Computer Science degree at Goldsmiths, University of L
 ## Projects
 ### Year 1
 #### Spongebob Game Project
-[![Spongebob Game Project](img/spongebobgamesrc.png)](https://www.youtube.com/@Parmisxhk)
+[![Spongebob Game Project](img/spongebobgame.png)](https://www.youtube.com/@Parmisxhk)
 
 #### Front-end Web Portfolio ([here](https://doc.gold.ac.uk/~phoss001/portfolio/))
 [![Front-End Web Portfolio Project](img/portfoliofrontend.png)](https://doc.gold.ac.uk/~phoss001/portfolio/)
@@ -42,17 +42,17 @@ I am currently pursuing a Computer Science degree at Goldsmiths, University of L
 
 #### Graphics
 ##### Lab 2 of Graphics
-[![Lab 2 of Graphics](img/graphicslab2.gif)]
+[Lab 2 of Graphics](img/graphicslab2.gif)
 
 ##### Lab 3 of Graphics
-[![Lab 3 of Graphics](img/graphicslab3.gif)]
+[Lab 3 of Graphics](img/graphicslab3.gif)
 
 ### Year 2
 #### Forum App
-[![Forum App](img/paintapp.png)](https://www.youtube.com/@Parmisxhk)
+[![Forum App](img/forumapp.png)](https://www.youtube.com/@Parmisxhk)
 
 #### StudyPals (Group project)
-[![StudyPals group project](img/paintapp.png)](https://www.youtube.com/@Parmisxhk)
+[![StudyPals group project](img/studypals.png)](https://www.youtube.com/@Parmisxhk)
 
 ## Contacts
 ### Email: parmisxhk@gmail.com
