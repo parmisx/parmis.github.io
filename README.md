@@ -42,10 +42,10 @@ I am currently pursuing a Computer Science degree at Goldsmiths, University of L
 
 #### Graphics
 ##### Lab 2 of Graphics
-[Lab 2 of Graphics](img/graphicslab2.gif)
+[![Lab 2 of Graphics](img/graphicslab2.gif)](https://www.youtube.com/@Parmisxhk)
 
 ##### Lab 3 of Graphics
-[Lab 3 of Graphics](img/graphicslab3.gif)
+[![Lab 3 of Graphics](img/graphicslab3.gif)](https://www.youtube.com/@Parmisxhk)
 
 ### Year 2
 #### Forum App
@@ -56,6 +56,6 @@ I am currently pursuing a Computer Science degree at Goldsmiths, University of L
 
 ## Contacts
 ### Email: parmisxhk@gmail.com
-### [![Linkedin](img/linkedin)(https://www.linkedin.com/in/parmis-hosseini-khah-55308b29a/)
-### [![Github](img/github)(https://github.com/parmisx/)
-### [!Youtube](img/youtube)(https://www.youtube.com/@Parmisxhk)
+### [![Linkedin](img/linkedin)](https://www.linkedin.com/in/parmis-hosseini-khah-55308b29a/)
+### [![Github](img/github)](https://github.com/parmisx/)
+### [!Youtube](img/youtube)](https://www.youtube.com/@Parmisxhk)
