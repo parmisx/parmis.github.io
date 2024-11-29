@@ -31,13 +31,13 @@ I am currently pursuing a Computer Science degree at Goldsmiths, University of L
 
 ## Projects
 ### Year 1
-#### Game project
+#### Spongebob Game Project
 [![Spongebob Game Project](img/spongebobgamesrc.png)](https://www.youtube.com/@Parmisxhk)
 
-#### Portfolio front-end web: https://doc.gold.ac.uk/~phoss001/portfolio/
+#### Front-end Web Portfolio ([here](https://doc.gold.ac.uk/~phoss001/portfolio/))
 [![Front-End Web Portfolio Project](img/portfoliofrontend.png)](https://doc.gold.ac.uk/~phoss001/portfolio/)
 
-#### Paint app
+#### Paint App
 [![Drawing and Paint App Project](img/paintapp.png)](https://www.youtube.com/@Parmisxhk)
 
 #### Graphics
@@ -47,15 +47,15 @@ I am currently pursuing a Computer Science degree at Goldsmiths, University of L
 ##### Lab 3 of Graphics
 [![Lab 3 of Graphics](img/graphicslab3.gif)
 
-### Year 2
-#### Forum App for Dynamic Web Applications
+### Year 2
+#### Forum App
 [![Forum App](img/paintapp.png)](https://www.youtube.com/@Parmisxhk)
 
-#### StudyPals: Group project
+#### StudyPals (Group project)
 [![StudyPals group project](img/paintapp.png)](https://www.youtube.com/@Parmisxhk)
 
 ## Contacts
-### Linkedin: (https://www.linkedin.com/in/parmis-hosseini-khah-55308b29a/)
-### Github: (https://github.com/parmisx/)
-### Email: parmisxhk@gmail.com
-### Youtube: (https://www.youtube.com/@Parmisxhk)
+### [Linkedin:](https://www.linkedin.com/in/parmis-hosseini-khah-55308b29a/)
+### [Github:](https://github.com/parmisx/)
+### [Email:]parmisxhk@gmail.com
+### [Youtube:](https://www.youtube.com/@Parmisxhk)
