@@ -56,4 +56,6 @@ I am currently pursuing a Computer Science degree at Goldsmiths, University of L
 
 ## Contacts
 ### Email: parmisxhk@gmail.com
-[![Linkedin](img/linkedin.png)](https://www.linkedin.com/in/parmis-hosseini-khah-55308b29a/) [![Github](img/github.png)](https://github.com/parmisx/) [![Youtube](img/youtube.png)](https://www.youtube.com/@Parmisxhk)
+[![Linkedin](img/linkedin.png)](https://www.linkedin.com/in/parmis-hosseini-khah-55308b29a/)
+[![Github](img/github.png)](https://github.com/parmisx/)
+[![Youtube](img/youtube.png)](https://www.youtube.com/@Parmisxhk)
