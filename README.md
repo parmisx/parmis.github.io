@@ -19,5 +19,4 @@ Year 2
 - Group project
 [Publication](https://youtu.be/vWR7ZVaqAvs?si=g5tnH0iW5rS4-z1u)
 
-[Spongebob game project](/img/spongebobgamescr.png)
-[![Spongebob Game Project](/img/spongebobgamescr.png)](https://www.youtube.com/@Parmisxhk)
+[![Spongebob Game Project](img/spongebobgamesrc.png)](https://www.youtube.com/@Parmisxhk)
