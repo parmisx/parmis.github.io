@@ -36,7 +36,12 @@ Year 1
 [![Front-End Web Portfolio Project](img/portfoliofrontend.png)](https://doc.gold.ac.uk/~phoss001/portfolio/)
 - Paint app
 [![Drawing and Paint App Project](img/paintapp.png)](https://www.youtube.com/@Parmisxhk)
-- Graphics?
+- Graphics
+Lab 2 of Graphics
+[![Lab 2 of Graphics](img/graphicslab2.gif)
+Lab 3 of Graphics
+[![Lab 3 of Graphics](img/graphicslab3.gif)
+
 Year 2
 - Forum app
 - Group project
