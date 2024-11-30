@@ -15,7 +15,7 @@ I am currently pursuing a Computer Science degree at Goldsmiths, University of L
 - Web Development
 - Front-end
 - Back-end
-- 3D Modeling
+- Blender (3D Modeling)
 
 ## Languages
 - JavaScript
