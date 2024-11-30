@@ -26,8 +26,8 @@ I am currently pursuing a Computer Science degree at Goldsmiths, University of L
 - SQL
 
 ## Work Experience
-### Industrial Placement: The Wick and The Loco.co, March 2021 - July 2021
-### Internship Experience: IEUK Bright Network, June 2024
+- Industrial Placement: The Wick and The Loco.co, March 2021 - July 2021
+- Internship Experience: IEUK Bright Network, June 2024
 
 ## Projects
 ### Year 1
