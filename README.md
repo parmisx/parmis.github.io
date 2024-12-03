@@ -31,13 +31,29 @@ I am currently pursuing a Computer Science degree at Goldsmiths, University of L
 
 ## Projects
 ### Year 1
-#### Spongebob Game Project
+#### Spongebob Game Project - December 2022
+A Spongebob-themed game similar to Mario. 
+Skills developed and outcomes:
+Understanding the basic ideas of programming, including variables and memory.
+Designing and implementing a small program that uses simple control structures, including loops using JavaScript within the p5.js framework.
+Developing a programme with several interacting classes and objects.
 [![Spongebob Game Project](img/spongebobgame.png)](https://www.youtube.com/@Parmisxhk)
 
-#### Front-end Web Portfolio ([here](https://doc.gold.ac.uk/~phoss001/portfolio/))
+#### Front-end Web Portfolio ([here](https://doc.gold.ac.uk/~phoss001/portfolio/)) - January 2023
+A portfolio of me in 10 years to demonstrate my front-end skills.
+Skills developed and outcomes:
+Implementation of client-side web-based applications and understanding of front-end development.  
+Use of HTML5 and CSS3 and manipulating the HTML and DOMO using Javascript.
+Creating interactive and responsive websites.
 [![Front-End Web Portfolio Project](img/portfoliofrontend.png)](https://doc.gold.ac.uk/~phoss001/portfolio/)
 
-#### Paint App
+#### Paint App - May 2023
+A paint and drawing application using p5.js.
+Skills developed and outcomes:
+Providing useful functionality to a program.
+Applying programming techniques such as object orientation to create larger bodies of code.
+Understanding and applying project management and basic design techniques.
+Understanding techniques for testing usability and stability and applying these to the final program
 [![Drawing and Paint App Project](img/paintapp.png)](https://www.youtube.com/@Parmisxhk)
 
 #### Graphics
@@ -48,10 +64,23 @@ I am currently pursuing a Computer Science degree at Goldsmiths, University of L
 [![Lab 3 of Graphics](img/graphicslab3.gif)](https://www.youtube.com/@Parmisxhk)
 
 ### Year 2
-#### Forum App
+#### Forum App - December 2023
+A forum app for students to create posts asking for help from other students.
+Skills developed and outcomes:
+Understanding client-server applications
+Building web-based applications.
+Developing an application that interacts with database servers. 
+Database development using MySQL. 
+Creating dynamic web applications which perform CRUD (create, read, update, delete) operations on databases.
 [![Forum App](img/forumapp.png)](https://www.youtube.com/@Parmisxhk)
 
-#### StudyPals (Group project)
+#### StudyPals (Group project) - March 2024
+A social media app for students to connect based on their subjects and interests.
+Skills developed and outcomes:
+Software project management and working in a team.
+Understanding methods involving users in design and demonstrating interface prototyping.
+Research the technical, social and creative context of a particular software application and apply this research to software design.
+Designing and implementing software that fits a particular user need and that demonstrates a clear aesthetic design.
 [![StudyPals group project](img/studypals.png)](https://www.youtube.com/@Parmisxhk)
 
 ## Contacts
