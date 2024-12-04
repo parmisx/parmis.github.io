@@ -1,7 +1,7 @@
 # Parmis Hosseini Khah
 
-## About
-I am currently pursuing a Computer Science degree at Goldsmiths, University of London. With a strong passion for innovation through coding, design, and digital creation, I am a driven and adaptable individual committed to continuous learning. I am eager to expand further in a tech-focused environment from my experience at the University and my developed skills in and out of University.
+## About me!
+My name is Parmis and I am currently pursuing a Computer Science degree at Goldsmiths, University of London. With a strong passion for innovation through coding, design, and digital creation, I am a driven and adaptable individual committed to continuous learning. I am eager to expand further in a tech-focused environment from my experience at the University and my developed skills in and out of the University.
 
 ## Education
 ### Goldsmiths University of London
