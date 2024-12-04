@@ -39,6 +39,7 @@ Skills developed and outcomes:
 - Understanding the basic ideas of programming, including variables and memory.
 - Designing and implementing a small program that uses simple control structures, including loops using JavaScript within the p5.js framework.
 - Developing a programme with several interacting classes and objects.
+
 [![Spongebob Game Project](img/spongebobgame.png)](https://youtu.be/z0VvyjetMWs)
 
 #### Front-end Web Portfolio ([here](https://doc.gold.ac.uk/~phoss001/portfolio/)) - January 2023
@@ -47,6 +48,7 @@ Skills developed and outcomes:
 - Implementation of client-side web-based applications and understanding of front-end development.
 - Use of HTML5 and CSS3 and manipulating the HTML and DOMO using Javascript.
 - Creating interactive and responsive websites.
+
 [![Front-End Web Portfolio Project](img/portfoliofrontend.png)](https://youtu.be/mEyZJBZtSr4)
 
 #### Drawing and Paint App - May 2023
@@ -56,6 +58,7 @@ Skills developed and outcomes:
 - Applying programming techniques such as object orientation to create larger bodies of code.
 - Understanding and applying project management and basic design techniques.
 - Understanding techniques for testing usability and stability and applying these to the final program
+
 [![Drawing and Paint App Project](img/paintapp.png)](https://youtu.be/aB5QlNL5TWs)
 
 #### Graphics
@@ -64,9 +67,10 @@ Skills developed and outcomes:
 - Procedurally manipulating digital media for use in creative contexts.
 - Understanding and applying rudimentary image processing techniques.
 - Understanding and applying basic geometrical transformations in 2D and 3D to create simple graphics.
+
 ##### Lab 2 of Graphics
 ![Lab 2 of Graphics](img/graphicslab2.gif)
-
+  
 ##### Lab 3 of Graphics
 ![Lab 3 of Graphics](img/graphicslab3.gif)
 
@@ -79,6 +83,7 @@ Skills developed and outcomes:
 - Developing an application that interacts with database servers.
 - Database development using MySQL.
 - Creating dynamic web applications which perform CRUD (create, read, update, delete) operations on databases.
+
 [![Forum App](img/forumapp.png)](https://youtu.be/JsA9xff8I6g)
 
 #### StudyPals (Group project) - March 2024
@@ -88,6 +93,7 @@ Skills developed and outcomes:
 - Understanding methods involving users in design and demonstrating interface prototyping.
 - Research the technical, social and creative context of a particular software application and apply this research to software design.
 - Designing and implementing software that fits a particular user need and that demonstrates a clear aesthetic design.
+
 [![StudyPals group project](img/studypals.png)](https://youtu.be/KJ54NI7sPEw)
 
 #### Hangman Game - May 2024
@@ -96,6 +102,7 @@ Skills developed and outcomes:
 - Developing a program in Java
 - Understanding and usage of GUI in Java
 - Designing and implementing software within the object-oriented paradigm using abstract classes and polymorphism
+
 [![Hangman Game](img/hangmangame.png)](https://youtu.be/wcIYczXa9Os)
 
 ## Contacts
