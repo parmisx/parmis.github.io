@@ -47,8 +47,8 @@ Skills developed and outcomes:
 - Creating interactive and responsive websites.
 [![Front-End Web Portfolio Project](img/portfoliofrontend.png)](https://doc.gold.ac.uk/~phoss001/portfolio/)
 
-#### Paint App - May 2023
-A paint and drawing application using p5.js.  
+#### Drawing and Paint App - May 2023
+A drawing and paint application using p5.js.  
 Skills developed and outcomes:
 - Providing useful functionality to a program.
 - Applying programming techniques such as object orientation to create larger bodies of code.
