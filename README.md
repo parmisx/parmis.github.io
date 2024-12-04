@@ -58,13 +58,13 @@ Skills developed and outcomes:
 
 #### Graphics
 ##### Lab 2 of Graphics
-[![Lab 2 of Graphics](img/graphicslab2.gif)](https://www.youtube.com/@Parmisxhk)
+[![Lab 2 of Graphics](img/graphicslab2.gif)]
 
 ##### Lab 3 of Graphics
-[![Lab 3 of Graphics](img/graphicslab3.gif)](https://www.youtube.com/@Parmisxhk)
+[![Lab 3 of Graphics](img/graphicslab3.gif)]
 
 ### Year 2
-#### Forum App - December 2023
+#### StudyDash Forum App - December 2023
 A forum app for students to create posts asking for help from other students.  
 Skills developed and outcomes:
 - Understanding client-server applications
@@ -82,6 +82,14 @@ Skills developed and outcomes:
 - Research the technical, social and creative context of a particular software application and apply this research to software design.
 - Designing and implementing software that fits a particular user need and that demonstrates a clear aesthetic design.
 [![StudyPals group project](img/studypals.png)](https://www.youtube.com/@Parmisxhk)
+
+#### Hangman Game - May 2024
+A mini hangman game made in Java!  
+Skills developed and outcomes:
+- Developing a program in Java
+- Understanding and usage of GUI in Java
+- Designing and implementing software within the object-oriented paradigm using abstract classes and polymorphism
+[![Hangman Game](img/hangmangame.png)](https://www.youtube.com/@Parmisxhk)
 
 ## Contacts
 ### Email: parmisxhk@gmail.com
