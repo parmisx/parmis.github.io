@@ -60,10 +60,10 @@ Skills developed and outcomes:
 
 #### Graphics
 ##### Lab 2 of Graphics
-[!Lab 2 of Graphics](img/graphicslab2.gif)]
+![Lab 2 of Graphics](img/graphicslab2.gif)
 
 ##### Lab 3 of Graphics
-[!Lab 3 of Graphics](img/graphicslab3.gif)]
+![Lab 3 of Graphics](img/graphicslab3.gif)
 
 ### Year 2
 #### StudyDash Forum App - December 2023
