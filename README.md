@@ -30,6 +30,8 @@ I am currently pursuing a Computer Science degree at Goldsmiths, University of L
 - Internship Experience: IEUK Bright Network, June 2024
 
 ## Projects
+Click on the images for videos of them!
+
 ### Year 1
 #### Spongebob Game Project - December 2022
 A Spongebob-themed game similar to Mario.  
