@@ -47,7 +47,7 @@ Skills developed and outcomes:
 - Implementation of client-side web-based applications and understanding of front-end development.
 - Use of HTML5 and CSS3 and manipulating the HTML and DOMO using Javascript.
 - Creating interactive and responsive websites.
-[![Front-End Web Portfolio Project](img/portfoliofrontend.png)](https://doc.gold.ac.uk/~phoss001/portfolio/)
+[![Front-End Web Portfolio Project](img/portfoliofrontend.png)](https://youtu.be/mEyZJBZtSr4)
 
 #### Drawing and Paint App - May 2023
 A drawing and paint application using p5.js.  
@@ -56,7 +56,7 @@ Skills developed and outcomes:
 - Applying programming techniques such as object orientation to create larger bodies of code.
 - Understanding and applying project management and basic design techniques.
 - Understanding techniques for testing usability and stability and applying these to the final program
-[![Drawing and Paint App Project](img/paintapp.png)](https://www.youtube.com/@Parmisxhk)
+[![Drawing and Paint App Project](img/paintapp.png)](https://youtu.be/aB5QlNL5TWs)
 
 #### Graphics
 ##### Lab 2 of Graphics
@@ -74,7 +74,7 @@ Skills developed and outcomes:
 - Developing an application that interacts with database servers.
 - Database development using MySQL.
 - Creating dynamic web applications which perform CRUD (create, read, update, delete) operations on databases.
-[![Forum App](img/forumapp.png)](https://www.youtube.com/@Parmisxhk)
+[![Forum App](img/forumapp.png)](https://youtu.be/JsA9xff8I6g)
 
 #### StudyPals (Group project) - March 2024
 A social media app for students to connect based on their subjects and interests.  
@@ -91,7 +91,7 @@ Skills developed and outcomes:
 - Developing a program in Java
 - Understanding and usage of GUI in Java
 - Designing and implementing software within the object-oriented paradigm using abstract classes and polymorphism
-[![Hangman Game](img/hangmangame.png)](https://www.youtube.com/@Parmisxhk)
+[![Hangman Game](img/hangmangame.png)](https://youtu.be/wcIYczXa9Os)
 
 ## Contacts
 ### Email: parmisxhk@gmail.com
