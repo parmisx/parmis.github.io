@@ -39,7 +39,7 @@ Skills developed and outcomes:
 - Understanding the basic ideas of programming, including variables and memory.
 - Designing and implementing a small program that uses simple control structures, including loops using JavaScript within the p5.js framework.
 - Developing a programme with several interacting classes and objects.
-[![Spongebob Game Project](img/spongebobgame.png)](https://www.youtube.com/@Parmisxhk)
+[![Spongebob Game Project](img/spongebobgame.png)](https://youtu.be/z0VvyjetMWs)
 
 #### Front-end Web Portfolio ([here](https://doc.gold.ac.uk/~phoss001/portfolio/)) - January 2023
 A portfolio of me in 10 years to demonstrate my front-end skills.  
@@ -88,7 +88,7 @@ Skills developed and outcomes:
 - Understanding methods involving users in design and demonstrating interface prototyping.
 - Research the technical, social and creative context of a particular software application and apply this research to software design.
 - Designing and implementing software that fits a particular user need and that demonstrates a clear aesthetic design.
-[![StudyPals group project](img/studypals.png)](https://www.youtube.com/@Parmisxhk)
+[![StudyPals group project](img/studypals.png)](https://youtu.be/KJ54NI7sPEw)
 
 #### Hangman Game - May 2024
 A mini hangman game made in Java!  
