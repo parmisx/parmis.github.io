@@ -59,6 +59,11 @@ Skills developed and outcomes:
 [![Drawing and Paint App Project](img/paintapp.png)](https://youtu.be/aB5QlNL5TWs)
 
 #### Graphics
+Skills developed and outcomes:
+- Writing basic but complete graphics software systems.
+- Procedurally manipulating digital media for use in creative contexts.
+- Understanding and applying rudimentary image processing techniques.
+- Understanding and applying basic geometrical transformations in 2D and 3D to create simple graphics.
 ##### Lab 2 of Graphics
 ![Lab 2 of Graphics](img/graphicslab2.gif)
 
