@@ -20,10 +20,11 @@ My name is Parmis and I am currently pursuing a Computer Science degree at Golds
 ## Languages
 - JavaScript
 - Java
-- Python
-- HTML
-- CSS
+- Python  
 - SQL
+- C#
+- HTML
+- CSS  
 
 ## Work Experience
 - Industrial Placement: The Wick and The Loco.co, March 2021 - July 2021
