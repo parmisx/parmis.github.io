@@ -108,7 +108,12 @@ Skills developed and outcomes:
 
 ### Year 3
 #### Game Town ([here](https://www.doc.gold.ac.uk/usr/351/)) - December 2024
-api website for gamers to find games
+Website for gamers to find games using API.  
+- Advanced level knowledge about working with data in web applications.  
+- Topics include advanced data modelling and representation issues such as security, integrity and confidentiality.  
+- Database implementation such as advanced querying in SQL and no-SQL databases.  
+- Programming client-server web applications with a focus on advanced topics such as REST APIs.
+- Engage with issues relating to the ethics of working with data.  
 
 [![Game Town](img/gametown.png)](https://youtu.be/dQ27kgWKWXs?si=PV8N7wikCZBDePYB)  
 
