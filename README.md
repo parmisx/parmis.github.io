@@ -121,9 +121,9 @@ A platform where gamers can find games in many different price ranges. It uses a
 With Neural Style Transfer, the aim is to use neural models to transfer the art style of an image to the content of another image.  
 - Constructing a programme which applies AI algorithms to creative domains.  
 - Evaluating the benefits, drawbacks and possibilities of artificial intelligence concerning issues of ethics and fairness.  
-- Be able to design, construct and train deep neural networks with Google's Tensorflow technology.  
+- Being able to design, construct and train deep neural networks with Google's Tensorflow technology.  
 - Understanding what kinds of problems can be solved.  
-- Be able to deploy neural networks to produce new artefacts.  
+- Being able to deploy neural networks to produce new artefacts.  
 
 [![Neural Style Transfer Generative AI](img/nstAI.png)](https://youtu.be/ht6_42KCTm0?si=hJtVy4jXz8sqNyDY)  
 
