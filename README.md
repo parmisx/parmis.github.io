@@ -110,7 +110,7 @@ Skills developed and outcomes:
 #### Game Town ([here](https://www.doc.gold.ac.uk/usr/351/)) - December 2024
 api website for gamers to find games
 
-[![Game Town](img/forumapp.png)](https://youtu.be/dQ27kgWKWXs?si=PV8N7wikCZBDePYB)  
+[![Game Town](img/gametown.png)](https://youtu.be/dQ27kgWKWXs?si=PV8N7wikCZBDePYB)  
 
 #### Neural Style Transfer AI - January 2025
 
