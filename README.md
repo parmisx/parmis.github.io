@@ -106,6 +106,20 @@ Skills developed and outcomes:
 
 [![Hangman Game](img/hangmangame.png)](https://youtu.be/wcIYczXa9Os)
 
+### Year 3
+#### Game Town ([here](https://www.doc.gold.ac.uk/usr/351/)) - December 2024
+api website for gamers to find games
+
+[![Game Town](img/forumapp.png)](https://youtu.be/dQ27kgWKWXs?si=PV8N7wikCZBDePYB)  
+
+#### Neural Style Transfer AI - January 2025
+
+[![Neural Style Transfer AI](img/nstAI.png)](https://youtu.be/dQ27kgWKWXs?si=PV8N7wikCZBDePYB)  
+
+#### Pawsitive Math - May 2025
+
+[![Pawsitve Math](img/pawsitivemath.png)](https://youtu.be/dQ27kgWKWXs?si=PV8N7wikCZBDePYB)  
+
 ## Contacts
 ### Email: parmisxhk@gmail.com
 [![Linkedin](img/linkedin.png)](https://www.linkedin.com/in/parmis-hosseini-khah-55308b29a/)
