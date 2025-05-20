@@ -112,9 +112,9 @@ api website for gamers to find games
 
 [![Game Town](img/gametown.png)](https://youtu.be/dQ27kgWKWXs?si=PV8N7wikCZBDePYB)  
 
-#### Neural Style Transfer AI - January 2025
+#### Neural Style Transfer Generative AI - January 2025
 
-[![Neural Style Transfer AI](img/nstAI.png)](https://youtu.be/dQ27kgWKWXs?si=PV8N7wikCZBDePYB)  
+[![Neural Style Transfer Generative AI](img/nstAI.png)](https://youtu.be/ht6_42KCTm0?si=hJtVy4jXz8sqNyDY)  
 
 #### Pawsitive Math - May 2025
 
