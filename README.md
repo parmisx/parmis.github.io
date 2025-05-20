@@ -114,7 +114,7 @@ api website for gamers to find games
 
 #### Neural Style Transfer Generative AI - January 2025
 
-[![Neural Style Transfer Generative AI](img/nstAI.png)](https://youtu.be/ht6_42KCTm0?si=hJtVy4jXz8sqNyDY)  
+[![Neural Style Transfer Generative AI](img/nst.png)](https://youtu.be/ht6_42KCTm0?si=hJtVy4jXz8sqNyDY)  
 
 #### Pawsitive Math - May 2025
 
