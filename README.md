@@ -128,6 +128,15 @@ With Neural Style Transfer, the aim is to use neural models to transfer the art 
 
 #### Pawsitive Math - May 2025
 Final project in Computer Science
+- Develop an educational game designed to create a fun and motivating learning platform aimed at children for learning mathematics.
+- The gamification of an educational app enhances the user’s engagement and enjoyability as they are rewarded by successfully completing the math quizzes.
+- This application (Pawsitive Math) has implemented interactive gamified elements that allows the user to keep users engaged and entertained.
+- The main feature of the application is its pet-caring abilities such as character customisation and status bars (energy, happiness and level) that gives the player sense of responsibility for their virtual pet.
+- The status bars dynamically update based on the user’s performance in the maths quizzes.
+- The player can gain rewards while completing the math quizzes and use their earned points in the wardrobe page to purchase clothing customisation for their pet. There are three status bars: energy, happiness and level.
+- The player can progress through the happiness and level bars by correctly answering the questions in the play page. The energy bar decreases as the player plays more games, and they will need to allow the pet to sleep to restore back the energy.
+- The main technology used to implement this application is Xcode, Swift and Swift UI, using such technology allowed this project to be developed smoothly as they are very efficient for creating interactive UI designed for mobile devices.
+- Blender was used to create 3D models of the bedroom platform and the pet.
 
 [![Pawsitve Math](img/pawsitivemath.png)](https://youtu.be/ULpqg8BWvSs?si=jjfFCfsgnvbsBbVc)  
 
